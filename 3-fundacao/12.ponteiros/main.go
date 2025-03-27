@@ -11,4 +11,5 @@ func main() {
 	*ponteiro = 20
 	b := &a
 	fmt.Println(*b)
+	fmt.Println(a)
 }
